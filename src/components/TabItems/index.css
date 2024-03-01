@@ -1,0 +1,23 @@
+.tab-item-container {
+  margin-right: 28px;
+  list-style: none;
+  list-style-type: none;
+}
+
+.tab-btn {
+  border-color: #db1c48;
+  background-color: #ffffff;
+  color: black;
+  border-radius: 9px;
+  border: 1px solid #db1c48;
+}
+
+.not-highlighted {
+  background-color: white;
+  color: #db1c48;
+}
+
+.highlighted {
+  color: white;
+  background-color: #db1c48;
+}
